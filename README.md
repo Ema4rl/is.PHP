@@ -1,2 +1,2 @@
 # is.PHP
- Framework-agnostic micro check library for PHP (A port of is.js)
+ Framework-agnostic micro check library for PHP - Inspired by is.js
